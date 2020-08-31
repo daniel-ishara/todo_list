@@ -9,6 +9,7 @@ All tasks are saved locally!
 
 <p align="center">
   <img src="https://github.com/daniel-ishara/todo_list/blob/master/screen1.png" width="350" title="Todo List">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
   <img src="https://github.com/daniel-ishara/todo_list/blob/master/screen2.png" width="350" alt="accessibility text">
 </p>
 
