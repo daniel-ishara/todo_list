@@ -13,4 +13,4 @@ All tasks are saved locally!
   <img src="https://github.com/daniel-ishara/todo_list/blob/master/screen2.png" width="350" alt="accessibility text">
 </p>
 
-Baseado no curso 'Criação de Apps Android e iOS com Flutter' - Daniel Ciolfi (Modificado)
+Based on the course 'Criação de Apps Android e iOS com Flutter' - Daniel Ciolfi (Modified)
